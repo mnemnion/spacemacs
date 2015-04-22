@@ -175,7 +175,7 @@ Details can be found on the emacs-mac-port [README][emacs-mac-port-server].
 1. If you have an existing Emacs configuration, back it up:
 
    ```sh
-   cd ~
+   cd
    mv .emacs.d .emacs.bak
    ```
 
